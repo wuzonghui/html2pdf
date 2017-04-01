@@ -10,9 +10,9 @@ pdfkit , wkhtmltopdf  --将网页转换为pdf
 
 ### 运行
 ```python
-python crawler.py
+python lxf-git.py
 ```
 
 ### 效果图
-![image](./lxf-git.png)
+![image](./lxf-git.png "效果图")
 
